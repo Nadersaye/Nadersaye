@@ -25,4 +25,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nadersaye&show_icons=true&locale=en" alt="Nadersaye" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadersaye&" alt="Nadersaye" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadersaye&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nadersaye" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nadersaye&show_icons=true&locale=en&theme=tokyonight" alt="Nadersaye" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadersaye&theme=tokyonight" alt="Nadersaye" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Nadersaye&theme=dracula" alt="Nadersaye" /></p>
+
